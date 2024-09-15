@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning MERN STACK.
 - 💞️ I’m looking to collaborate on PROJECTS.
-- 😄 Pronouns: MR.
+- 😄 Pronouns:mr
 - ⚡ Fun fact: CREATOR
 
 <!---
