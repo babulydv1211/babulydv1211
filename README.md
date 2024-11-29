@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
-<h3>When I code, I rely on</h3>
+<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<h1>When I code, I rely on</h1>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
